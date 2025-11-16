@@ -21,6 +21,7 @@
 + 2022.06.01 Audio recognition of Chinese traditional instruments based on machine learning [theiet](https://digital-library.theiet.org/doi/full/10.1049/ccs2.12047) [mendeley](https://www.mendeley.com/catalogue/fdb321c1-7c2b-33f9-9f1c-7fa7ce4e8188/) [pdf](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ccs2.12047)
 + 2022.01.15 基于人工智能技术的中国民族乐器识别研究 [知网](https://www.cnki.net/)
 + 2021.08.19 ChMusic: A Traditional Chinese Music Dataset for Evaluation of Instrument Recognition [arxiv](https://arxiv.org/abs/2108.08470)
++ 2019.08.15 Chinese Traditional Musical Instrument Evaluation Based on a Smart Microphone Array Sensor [mdpi](https://www.mdpi.com/2504-3900/15/1/40) [pubmed](https://www.semanticscholar.org/paper/Chinese-Traditional-Musical-Instrument-Evaluation-a-Li-Chen/65eef0132e021b0ef2d822008d65aa30303aa66e)
 
 + 2016.12.01 基于深度学习的音乐流派及中国传统乐器识别分类研究 [知网](https://www.cnki.net/)
 
