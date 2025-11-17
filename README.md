@@ -28,9 +28,21 @@
 
 
 
+### Music Emotion Recognition (音乐情感识别)
++ 2025.02.06 Towards Unified Music Emotion Recognition across Dimensional and Categorical Models [arxiv](https://arxiv.org/abs/2502.03979)
++ 2017.04.19 CNN based music emotion classification [arxiv](https://arxiv.org/abs/1704.05665)
+
 ### Video-To-Music Generation
 + 2025.03.27 Vision-to-Music Generation: A Survey [arxiv](https://arxiv.org/abs/2503.21254)
 
+
+### Music Understanding
++ 2025.07.08 MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation [arxiv](https://arxiv.org/abs/2507.05894) [github](https://github.com/xinyueli2896/MusiScene)
++ 2023.08.22 Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning [arxiv](https://arxiv.org/abs/2308.11276) [github](https://github.com/shansongliu/MU-LLaMA)
+
+### Foundation Model
++ 2024.09.15 A Survey of Foundation Models for Music Understanding [arxiv](https://arxiv.org/abs/2409.09601)
++ 2024.08.26 Foundation Models for Music: A Survey [arxiv](https://arxiv.org/abs/2408.14340)
 
 ### Survey
 + 2023.02.13 Music Deep Learning: Deep Learning Methods for Music Signal Processing—A Review of the State-of-the-Art [ieee](https://ieeexplore.ieee.org/abstract/document/10043650)
