@@ -41,6 +41,9 @@
 ### Video-To-Music Generation
 + 2025.03.27 Vision-to-Music Generation: A Survey [arxiv](https://arxiv.org/abs/2503.21254)
 
+### Text-To-Audio (Music) Generation
++ 2025.03.18 AI-Enabled Text-to-Music Generation: A Comprehensive Review of Methods, Frameworks, and Future Directions [mdpi](https://www.mdpi.com/2079-9292/14/6/1197)
++ 2024.12.26 ETTA: Elucidating the Design Space of Text-to-Audio Models [arxiv](https://arxiv.org/abs/2412.19351)
 
 ### Music Understanding
 + 2025.11.13 Music Flamingo: Scaling Music Understanding in Audio Language Models [arxiv](https://arxiv.org/abs/2511.10289)
