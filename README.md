@@ -43,6 +43,7 @@
 
 
 ### Music Understanding
++ 2025.11.13 Music Flamingo: Scaling Music Understanding in Audio Language Models [arxiv](https://arxiv.org/abs/2511.10289)
 + 2025.10.03 UALM: Unified Audio Language Model for Understanding, Generation and Reasoning [arxiv](https://arxiv.org/abs/2510.12000) [github](https://github.com/NVIDIA/audio-intelligence/tree/main/UALM)
 + 2025.07.08 MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation [arxiv](https://arxiv.org/abs/2507.05894) [github](https://github.com/xinyueli2896/MusiScene)
 + 2023.08.22 Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning [arxiv](https://arxiv.org/abs/2308.11276) [github](https://github.com/shansongliu/MU-LLaMA)
