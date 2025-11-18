@@ -14,6 +14,7 @@
 ### 生成式音乐评价
 + 2025.10.25 Survey on the Evaluation of Generative Models in Music [acm](https://dl.acm.org/doi/full/10.1145/3769106)
 + 2025.09.29 Echoes of Humanity: Exploring the Perceived Humanness of AI Music [arxiv](https://arxiv.org/abs/2509.25601)
++ 2025.09.03 Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings [arxiv](https://arxiv.org/abs/2509.03292)
 + 2023.08.26 A Comprehensive Survey for Evaluation Methodologies of AI-Generated Music [arxiv](https://arxiv.org/abs/2308.13736)
 
 ### 中国古典音乐
@@ -42,6 +43,7 @@
 
 
 ### Music Understanding
++ 2025.10.03 UALM: Unified Audio Language Model for Understanding, Generation and Reasoning [arxiv](https://arxiv.org/abs/2510.12000) [github](https://github.com/NVIDIA/audio-intelligence/tree/main/UALM)
 + 2025.07.08 MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation [arxiv](https://arxiv.org/abs/2507.05894) [github](https://github.com/xinyueli2896/MusiScene)
 + 2023.08.22 Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning [arxiv](https://arxiv.org/abs/2308.11276) [github](https://github.com/shansongliu/MU-LLaMA)
 
@@ -51,6 +53,10 @@
 
 ### Survey
 + 2023.02.13 Music Deep Learning: Deep Learning Methods for Music Signal Processing—A Review of the State-of-the-Art [ieee](https://ieeexplore.ieee.org/abstract/document/10043650)
+
+
+### 声源分离
++ 2025.07.09 Musical Source Separation Bake-Off: Comparing Objective Metrics with Human Perception [arxiv](https://arxiv.org/abs/2507.06917)
 
 ---
 
