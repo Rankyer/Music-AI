@@ -44,6 +44,7 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 
 ### Vision-To-Music Generation
 + 2025.03.27 Vision-to-Music Generation: A Survey [arxiv](https://arxiv.org/abs/2503.21254)
++ 2025.02.02 AI-based Chinese-style music generation from video content: a study on cross-modal analysis and generation methods [eurasipjournals](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-025-00397-3)
 + 2024.10.09 CPTGZ: Generating Chinese Guzheng Music From Chinese Paintings Based on Diffusion Model [ieee](https://ieeexplore.ieee.org/document/10711246)
   + 图片到古筝音乐生成
 
