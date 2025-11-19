@@ -3,13 +3,16 @@
 
 ## Trends
 + 2022.11.12 Large-scale Contrastive Language-Audio Pretraining with Feature Fusion and Keyword-to-Caption Augmentation [paper](https://arxiv.org/abs/2211.06687) [github](https://github.com/LAION-AI/CLAP) 
+AudioCraft [github](https://github.com/facebookresearch/audiocraft)
+
 
 ### 音频信号处理
 + （2021 中国传媒大学）音乐信号处理的特征分析综述 [网页](https://www.fx361.com/page/2021/0224/12078300.shtml)
 
-### 音乐评价
+### 音乐（主客观）评价
 + （2025 中国传媒大学）流行音乐混音制作中主观听感与客观特征的映射关系研究
 + （2021 中国传媒大学）审听训练与音质主观评价 [zlib](https://z-library.ec/book/32258813/d3d2de) [link](https://reader.z-library.sk/read/fb7ea4f0d98b6e153e22f72e0748ba9a7486742a4978ec9bc5558957ac5e3d28/32258813/d3d2de/%E5%AE%A1%E5%90%AC%E8%AE%AD%E7%BB%83%E4%B8%8E%E9%9F%B3%E8%B4%A8%E4%B8%BB%E8%A7%82%E8%AF%84%E4%BB%B7.html?client_key=1fFLi67gBrNRP1j1iPy1&extension=epub&signature=799d8cdf0736a21e14cb366b1096303a98a628646616bf2fe70618ee65462ad7&download_location=https%3A%2F%2Fzh.z-library.sk%2Fdl%2F32258813%2Fdc9aa3) [douban](https://book.douban.com/subject/35649205/)
++ 2019.03.14 Automatic Assessment of Tone Quality in Violin Music Performance [googel scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0,5&cites=8954483236393795308&scipsc=) [frontiersin](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00334/full)
 
 ### 生成式音乐评价
 + 2025.10.25 Survey on the Evaluation of Generative Models in Music [acm](https://dl.acm.org/doi/full/10.1145/3769106)
@@ -32,18 +35,26 @@
 
 + 2016.12.01 基于深度学习的音乐流派及中国传统乐器识别分类研究 [知网](https://www.cnki.net/)
 
-
+### Music Style Transfer
++ 2025.06.01 基于深度学习的音乐风格迁移研究 [知网](https://www.cnki.net/)
 
 ### Music Emotion Recognition (音乐情感识别)
 + 2025.02.06 Towards Unified Music Emotion Recognition across Dimensional and Categorical Models [arxiv](https://arxiv.org/abs/2502.03979)
 + 2017.04.19 CNN based music emotion classification [arxiv](https://arxiv.org/abs/1704.05665)
 
-### Video-To-Music Generation
+### Vision-To-Music Generation
 + 2025.03.27 Vision-to-Music Generation: A Survey [arxiv](https://arxiv.org/abs/2503.21254)
++ 2024.10.09 CPTGZ: Generating Chinese Guzheng Music From Chinese Paintings Based on Diffusion Model [ieee](https://ieeexplore.ieee.org/document/10711246)
+  + 图片到古筝音乐生成
 
 ### Text-To-Audio (Music) Generation
++ 2025.10.13 AI-driven generation of guzheng music from classical Chinese poetry: toward a new paradigm of creative practice in Chinese traditional Music [springer](https://link.springer.com/article/10.1007/s00530-025-02023-w)
 + 2025.03.18 AI-Enabled Text-to-Music Generation: A Comprehensive Review of Methods, Frameworks, and Future Directions [mdpi](https://www.mdpi.com/2079-9292/14/6/1197)
 + 2024.12.26 ETTA: Elucidating the Design Space of Text-to-Audio Models [arxiv](https://arxiv.org/abs/2412.19351)
++ 2024.09.04 MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision [arxiv](https://arxiv.org/abs/2409.02421)
++ 2023.12.15 Amphion: An Open-Source Audio, Music and Speech Generation Toolkit [arxiv](https://arxiv.org/abs/2312.09911) [github](https://github.com/open-mmlab/Amphion)
++ 2023.06.08 Simple and Controllable Music Generation [arxiv](https://arxiv.org/abs/2306.05284)
++ 2023.01.29 AudioLDM: Text-to-Audio Generation with Latent Diffusion Models [arxiv](https://arxiv.org/abs/2301.12503)
 
 ### Music Understanding
 + 2025.11.13 Music Flamingo: Scaling Music Understanding in Audio Language Models [arxiv](https://arxiv.org/abs/2511.10289)
