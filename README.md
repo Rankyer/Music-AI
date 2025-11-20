@@ -12,6 +12,7 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 ### 音乐（主客观）评价
 + （2025 中国传媒大学）流行音乐混音制作中主观听感与客观特征的映射关系研究
 + （2021 中国传媒大学）审听训练与音质主观评价 [zlib](https://z-library.ec/book/32258813/d3d2de) [link](https://reader.z-library.sk/read/fb7ea4f0d98b6e153e22f72e0748ba9a7486742a4978ec9bc5558957ac5e3d28/32258813/d3d2de/%E5%AE%A1%E5%90%AC%E8%AE%AD%E7%BB%83%E4%B8%8E%E9%9F%B3%E8%B4%A8%E4%B8%BB%E8%A7%82%E8%AF%84%E4%BB%B7.html?client_key=1fFLi67gBrNRP1j1iPy1&extension=epub&signature=799d8cdf0736a21e14cb366b1096303a98a628646616bf2fe70618ee65462ad7&download_location=https%3A%2F%2Fzh.z-library.sk%2Fdl%2F32258813%2Fdc9aa3) [douban](https://book.douban.com/subject/35649205/)
++ 2020.01.22 Analysis and Modeling of Timbre Perception Features in Musical Sounds [mdpi](https://www.mdpi.com/2076-3417/10/3/789)
 + 2019.03.14 Automatic Assessment of Tone Quality in Violin Music Performance [googel scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0,5&cites=8954483236393795308&scipsc=) [frontiersin](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00334/full)
 
 ### 生成式音乐评价
@@ -37,6 +38,7 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 
 ### Music Style Transfer
 + 2025.06.01 基于深度学习的音乐风格迁移研究 [知网](https://www.cnki.net/)
++ 2014.10.__ SAFE: A System for the Extraction and Retrieval of Semantic Audio Descriptors [quml](https://www.eecs.qmul.ac.uk/~josh/documents/2014/Stables%20et%20al%20ISMIR2014.pdf) [Google scholar](https://scholar.google.com/scholar?cites=7480461808829009948&as_sdt=2005&sciodt=0,5&hl=zh-CN)
 
 ### Music Emotion Recognition (音乐情感识别)
 + 2025.02.06 Towards Unified Music Emotion Recognition across Dimensional and Categorical Models [arxiv](https://arxiv.org/abs/2502.03979)
