@@ -8,6 +8,7 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 
 ### 音频信号处理
 + （2021 中国传媒大学）音乐信号处理的特征分析综述 [网页](https://www.fx361.com/page/2021/0224/12078300.shtml)
++ 2016.05.12 A Review of Physical and Perceptual Feature Extraction Techniques for Speech, Music and Environmental Sounds [mdpi](https://www.mdpi.com/2076-3417/6/5/143#Abstract)
 
 ### 音乐（主客观）评价
 + （2025 中国传媒大学）流行音乐混音制作中主观听感与客观特征的映射关系研究
