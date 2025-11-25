@@ -40,6 +40,7 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 
 ### Music Style Transfer
 + 2025.06.01 基于深度学习的音乐风格迁移研究 [知网](https://www.cnki.net/)
++ 2024.11.24 Stylus: Repurposing Stable Diffusion for Training-Free Music Style Transfer on Mel-Spectrograms [arxiv](https://arxiv.org/abs/2411.15913)
 + 2014.10.__ SAFE: A System for the Extraction and Retrieval of Semantic Audio Descriptors [quml](https://www.eecs.qmul.ac.uk/~josh/documents/2014/Stables%20et%20al%20ISMIR2014.pdf) [Google scholar](https://scholar.google.com/scholar?cites=7480461808829009948&as_sdt=2005&sciodt=0,5&hl=zh-CN)
 
 ### Music Emotion Recognition (音乐情感识别)
@@ -66,6 +67,10 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 + 2025.10.03 UALM: Unified Audio Language Model for Understanding, Generation and Reasoning [arxiv](https://arxiv.org/abs/2510.12000) [github](https://github.com/NVIDIA/audio-intelligence/tree/main/UALM)
 + 2025.07.08 MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation [arxiv](https://arxiv.org/abs/2507.05894) [github](https://github.com/xinyueli2896/MusiScene)
 + 2023.08.22 Music Understanding LLaMA: Advancing Text-to-Music Generation with Question Answering and Captioning [arxiv](https://arxiv.org/abs/2308.11276) [github](https://github.com/shansongliu/MU-LLaMA)
+
+### Audio Editing
++ 2023.04.03 AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models [arxiv](https://arxiv.org/abs/2304.00830)
+
 
 ### Foundation Model
 + 2024.09.15 A Survey of Foundation Models for Music Understanding [arxiv](https://arxiv.org/abs/2409.09601)
