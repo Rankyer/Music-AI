@@ -41,6 +41,8 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 ### Music Style Transfer
 + 2025.06.01 基于深度学习的音乐风格迁移研究 [知网](https://www.cnki.net/)
 + 2024.11.24 Stylus: Repurposing Stable Diffusion for Training-Free Music Style Transfer on Mel-Spectrograms [arxiv](https://arxiv.org/abs/2411.15913)
++ 2024.10.27 Instrumental Timbre Transfer Based on Disentangled Representation of Timbre and Pitch [ieee](https://ieeexplore.ieee.org/document/10943019)
++ 2019.05.30 Musical Composition Style Transfer via Disentangled Timbre Representations [arxiv](https://arxiv.org/abs/1905.13567)
 + 2014.10.__ SAFE: A System for the Extraction and Retrieval of Semantic Audio Descriptors [quml](https://www.eecs.qmul.ac.uk/~josh/documents/2014/Stables%20et%20al%20ISMIR2014.pdf) [Google scholar](https://scholar.google.com/scholar?cites=7480461808829009948&as_sdt=2005&sciodt=0,5&hl=zh-CN)
 
 ### Music Emotion Recognition (音乐情感识别)
