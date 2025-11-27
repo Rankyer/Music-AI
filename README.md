@@ -50,6 +50,9 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 + 2025.02.06 Towards Unified Music Emotion Recognition across Dimensional and Categorical Models [arxiv](https://arxiv.org/abs/2502.03979)
 + 2017.04.19 CNN based music emotion classification [arxiv](https://arxiv.org/abs/1704.05665)
 
+### Multi-Modal for Music
++ 2025.04.17 A Survey on Cross-Modal Interaction Between Music and Multimodal Data [arxiv](https://arxiv.org/abs/2504.12796)
+
 ### Vision-To-Music Generation
 + 2025.11.12 Video Echoed in Music: Semantic, Temporal, and Rhythmic Alignment for Video-to-Music Generation [arxiv](https://arxiv.org/abs/2511.09585) [github](https://vem-paper.github.io/)
 + 2025.03.27 Vision-to-Music Generation: A Survey [arxiv](https://arxiv.org/abs/2503.21254)
