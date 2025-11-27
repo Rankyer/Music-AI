@@ -51,6 +51,7 @@ AudioCraft [github](https://github.com/facebookresearch/audiocraft)
 + 2017.04.19 CNN based music emotion classification [arxiv](https://arxiv.org/abs/1704.05665)
 
 ### Vision-To-Music Generation
++ 2025.11.12 Video Echoed in Music: Semantic, Temporal, and Rhythmic Alignment for Video-to-Music Generation [arxiv](https://arxiv.org/abs/2511.09585) [github](https://vem-paper.github.io/)
 + 2025.03.27 Vision-to-Music Generation: A Survey [arxiv](https://arxiv.org/abs/2503.21254)
 + 2025.02.02 AI-based Chinese-style music generation from video content: a study on cross-modal analysis and generation methods [eurasipjournals](https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-025-00397-3)
 + 2024.10.09 CPTGZ: Generating Chinese Guzheng Music From Chinese Paintings Based on Diffusion Model [ieee](https://ieeexplore.ieee.org/document/10711246)
